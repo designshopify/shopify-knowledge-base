@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>None</loc>
-     <lastmod>2018-11-16</lastmod>
+     <loc>https://papathemes.com/shopify-themes/</loc>
+     <lastmod>2018-11-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2018-11-16</lastmod>
+     <loc>https://papathemes.com/shopify-themes/installation/</loc>
+     <lastmod>2018-11-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2018-11-16</lastmod>
+     <loc>https://papathemes.com/shopify-themes/faqs/</loc>
+     <lastmod>2018-11-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://papathemes.com/shopify-themes/ticket/</loc>
+     <lastmod>2018-11-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
